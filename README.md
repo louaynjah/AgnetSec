@@ -47,10 +47,13 @@
 ### Installation rapide
 # Cloner le dépôt
 git clone https://github.com/votre-username/AgentSec.git
+
 cd AgentSec
 
 # Installer les dépendances
 chmod +x scripts/install.sh
+
+
 ./scripts/install.sh
 
 # Lancer n8n
